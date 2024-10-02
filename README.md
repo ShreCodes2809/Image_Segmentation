@@ -56,7 +56,7 @@ To prepare the dataset:
 
 ## Results
 
-![Results][Results.png "Results for Segmentation"]
+![Results](Results.png "Results for Segmentation")
 
 ## Conclusion
 This project demonstrates the potential of deep learning in the early detection and segmentation of Gallbladder Cancer (GBC). The combined architecture of U-Net with ResNet50 for segmentation and EfficientNet-B0 for classification has yielded promising results, showing improved segmentation accuracy and reliable cancer detection.

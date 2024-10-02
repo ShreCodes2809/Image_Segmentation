@@ -67,5 +67,3 @@ This project demonstrates the potential of deep learning in the early detection 
 
 ---
 
-Feel free to modify it to your preferences before uploading it to your GitHub repository.
-
